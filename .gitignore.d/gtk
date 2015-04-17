@@ -1,0 +1,4 @@
+*
+!/.gitignore.d
+!/.gitignore.d/gtk
+!/.gtkrc-2.0
