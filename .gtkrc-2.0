@@ -1,6 +1,6 @@
 # Theme
-include "/usr/share/themes/FlatStudioDark/gtk-2.0/gtkrc"
-gtk-theme-name = "FlatStudioDark"
+include "/usr/share/themes/Materia-dark/gtk-2.0/gtkrc"
+gtk-theme-name = "Materia-dark"
 
 # Fonts
 style "font"
